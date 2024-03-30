@@ -1,6 +1,6 @@
 name: devaloop_data_detail_page
 description: "A Flutter DataDetail package project."
-version: 0.0.4
+version: 0.0.5
 homepage: https://github.com/devaloop/data_detail_page
 
 environment:
@@ -10,7 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  devaloop_form_builder: ^0.1.5
+  devaloop_form_builder: ^0.1.6
 
 dev_dependencies:
   flutter_test:
