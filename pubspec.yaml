@@ -1,6 +1,6 @@
 name: devaloop_data_detail_page
 description: "A Flutter DataDetail package project."
-version: 0.0.5
+version: 0.0.6
 homepage: https://github.com/devaloop/data_detail_page
 
 environment:

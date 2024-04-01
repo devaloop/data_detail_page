@@ -1,3 +1,3 @@
-## 0.0.5
+## 0.0.6
 
-* DataDetailPage
+* BugsFix after save back to initial

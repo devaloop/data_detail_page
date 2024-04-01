@@ -41,6 +41,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.18.0"
+  cross_file:
+    dependency: transitive
+    description:
+      name: cross_file
+      sha256: "55d7b444feb71301ef6b8838dbc1ae02e63dd48c8773f3810ff53bb1e2945b32"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.3.4+1"
   cupertino_icons:
     dependency: "direct main"
     description:
@@ -55,15 +63,15 @@ packages:
       path: ".."
       relative: true
     source: path
-    version: "0.0.2"
+    version: "0.0.6"
   devaloop_form_builder:
     dependency: "direct main"
     description:
       name: devaloop_form_builder
-      sha256: "14d648948454b277492854d54c6511ee3e14390558561e8dce1ef610bad86181"
+      sha256: "6dfb15b4bcaf677ae278bf7abf010e2628b357c3ec72e7c6bca845004ac79694"
       url: "https://pub.dev"
     source: hosted
-    version: "0.1.3"
+    version: "0.1.8"
   fake_async:
     dependency: transitive
     description:
@@ -84,10 +92,10 @@ packages:
     dependency: transitive
     description:
       name: file_picker
-      sha256: "1bbf65dd997458a08b531042ec3794112a6c39c07c37ff22113d2e7e4f81d4e4"
+      sha256: d1d0ac3966b36dc3e66eeefb40280c17feb87fa2099c6e22e6a1fc959327bd03
       url: "https://pub.dev"
     source: hosted
-    version: "6.2.1"
+    version: "8.0.0+1"
   flutter:
     dependency: "direct main"
     description: flutter
@@ -268,14 +276,22 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "13.0.0"
+  web:
+    dependency: transitive
+    description:
+      name: web
+      sha256: "97da13628db363c635202ad97068d47c5b8aa555808e7a9411963c533b449b27"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.5.1"
   win32:
     dependency: transitive
     description:
       name: win32
-      sha256: "8cb58b45c47dcb42ab3651533626161d6b67a2921917d8d429791f76972b3480"
+      sha256: "0a989dc7ca2bb51eac91e8fd00851297cfffd641aa7538b165c62637ca0eaa4a"
       url: "https://pub.dev"
     source: hosted
-    version: "5.3.0"
+    version: "5.4.0"
 sdks:
   dart: ">=3.3.0 <4.0.0"
   flutter: ">=3.7.0"

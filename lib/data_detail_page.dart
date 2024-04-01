@@ -130,7 +130,6 @@ class _DataDetailPageState extends State<DataDetailPage> {
                   ),
                 ] +
                 (widget.additionalButtons ?? []),
-            resetToInitialAfterSubmit: true,
             onSubmit: (context, inputValues) async {
               await widget.save.call(widget.id, inputValues);
 
